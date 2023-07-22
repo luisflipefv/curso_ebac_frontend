@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(231, 227, 227);
+}
+
+.container {
+  max-width: 380px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+input,
+button {
+  padding: 8px;
+  font-size: 18px;
+}
+
+button {
+  font-weight: bold;
+}
