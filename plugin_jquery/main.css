@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+header h1 {
+  margin-bottom: 15px;
+}
+
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+input {
+  display: flex;
+  margin-top: 34px;
+  padding: 8px;
+  width: 100%;
+}
+
+button {
+  margin-top: 20px;
+  padding: 8px;
+  width: 100%;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 18px;
+  background-color: #119759;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
